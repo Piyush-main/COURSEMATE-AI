@@ -1,0 +1,52 @@
+langchain
+langchain-core
+langchain-community
+langchain-classic
+
+# LLM Provider (free-tier friendly)
+
+langchain-mistralai
+mistralai
+
+# Vector Database
+
+chromadb
+
+# Embedding Models (free, local, no API key needed)
+
+langchain-huggingface
+sentence-transformers
+
+# Document Loaders dependencies
+
+pypdf
+unstructured
+beautifulsoup4
+lxml
+
+# Text Processing
+
+tiktoken
+
+# Environment Variables
+
+python-dotenv
+
+# Data Handling
+
+pandas
+numpy
+
+# API / App Layer (optional but common in RAG apps)
+
+fastapi
+uvicorn
+
+# UI (optional)
+
+streamlit
+
+# Utilities
+
+tqdm
+requests
